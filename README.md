@@ -17,7 +17,7 @@ In this project we will analyze the interactions that users have with articles o
 - README.md
 ```
 ### Instructions:
-In a terminal or command window, navigate to the top-level project directory DSND-Recommendations-with-IBM/Notebooks and run one of the following commands:
+In a terminal or command window, navigate to the top-level project directory DSND-Recommendations-with-IBM/Notebook and run one of the following commands:
 
 ipython notebook Recommendations_with_IBM.ipynb
 or
